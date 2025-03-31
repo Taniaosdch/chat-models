@@ -1,0 +1,7 @@
+streamlit
+base64
+email
+bs4
+google_auth_oauthlib.flow
+googleapiclient.discovery
+re
